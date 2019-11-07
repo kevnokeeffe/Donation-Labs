@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64c5e7dd-9bd2-4b2b-98fd-81b49a3fa49a" name="Default Changelist" comment="" />
+    <list default="true" id="64c5e7dd-9bd2-4b2b-98fd-81b49a3fa49a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DonationVue 2.0/src/components/Donations.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.0/src/components/Donations.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DonationVue 2.0/src/services/donationservice.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.0/src/services/donationservice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-10-01T010751.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-10-01T124739.500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-10-01T124831.200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/donations.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/donations.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +30,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response7.json" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1RawFqfCLVat8NvaGTkY1FRw6bq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RestaurantManager-3.0" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -675,6 +690,7 @@
       <workItem from="1571247583654" duration="31000" />
       <workItem from="1571248627705" duration="2493000" />
       <workItem from="1573145773720" duration="35000" />
+      <workItem from="1573147192274" duration="2014000" />
     </task>
     <servers />
   </component>
@@ -686,7 +702,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

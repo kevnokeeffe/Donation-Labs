@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import DonationService from '@/services/DonationService'
+    import DonationService from '@/services/donationservice'
     export default {
         name: 'Donations',
         data () {
@@ -33,7 +33,7 @@
                     })
             }
         }
-    }
+    };
 </script>
 
 <style scoped>

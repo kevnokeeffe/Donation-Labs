@@ -1,4 +1,4 @@
-
+var cors = require("cors");
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -19,11 +19,11 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
-
+app.use(cors());
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.get('/donations/votes', donations.totalVotes);
-app.get('/donations', donations.findAll);
+app.get('/donations/all', donations.findAll);
 app.get('/donations/:id', donations.findOne);
 app.post('/donations', donations.addDonation);
 app.put('/donations/:id/vote', donations.incrementUpvotes);

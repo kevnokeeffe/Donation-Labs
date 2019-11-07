@@ -25,7 +25,7 @@ router.findAll = (req, res) => {
         if (err)
             res.send(err);
 
-        res.send(JSON.stringify(donations,null,5));
+        res.send(donations);
         res.json(donations);
     });
 }
@@ -45,8 +45,8 @@ router.findOne = (req, res) => {
         if (err)
             res.send(err);
         else
-        res.send(JSON.stringify(donation,null,5));
-
+        res.send(donation);
+        res.json(donation);
     });
 }
 
