@@ -26,7 +26,7 @@ router.findAll = (req, res) => {
             res.send(err);
 
         res.send(donations);
-        res.json(donations);
+        //res.json(donations);
     });
 }
 

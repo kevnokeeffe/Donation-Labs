@@ -1,6 +1,7 @@
 <template>
   <div class="hero">
     <h3 class="vue-title"><i class="fa fa-list" style="padding: 3px"></i>{{messagetitle}}</h3>
+    <p>{{donations}}</p>
   </div>
 </template>
 
@@ -26,6 +27,7 @@
                         // JSON responses are automatically parsed.
                         this.donations = response.data
                         console.log(this.donations)
+
                     })
                     .catch(error => {
                         this.errors.push(error)
@@ -33,6 +35,7 @@
                     })
             }
         }
+
     };
 </script>
 
