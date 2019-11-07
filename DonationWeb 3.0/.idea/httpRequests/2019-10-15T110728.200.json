@@ -1,0 +1,35 @@
+[
+  {
+    "upvotes": 0,
+    "_id": "5da58c253802e34b7e2bb59d",
+    "paymenttype": "PayPal",
+    "amount": 1500
+  },
+  {
+    "upvotes": 2,
+    "_id": "5da5907e3802e34b7e2bb59e",
+    "id": 1000001,
+    "paymenttype": "Direct",
+    "amount": 1100
+  },
+  {
+    "upvotes": 1,
+    "_id": "5da590a83802e34b7e2bb59f",
+    "id": 1000002,
+    "paymenttype": "Visa",
+    "amount": 1000
+  },
+  {
+    "upvotes": 0,
+    "_id": "5da599aebbb01b04388c4773",
+    "paymenttype": "PayPal",
+    "__v": 0
+  },
+  {
+    "upvotes": 0,
+    "_id": "5da59a5bb9e16d2be43df3c1",
+    "paymenttype": "PayPal",
+    "amount": 1101,
+    "__v": 0
+  }
+]

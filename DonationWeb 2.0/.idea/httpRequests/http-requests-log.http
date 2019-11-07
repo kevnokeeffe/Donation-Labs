@@ -1,0 +1,513 @@
+GET http://localhost:3000/donations/votes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T080207.200.json
+
+###
+
+GET http://localhost:3000/donations/votes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T080203.200.json
+
+###
+
+GET http://localhost:3000/donations/votes
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+DELETE http://localhost:3000/donations/1000001/delete
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T010756.200.json
+
+###
+
+DELETE http://localhost:3000/donations/1000001/delete
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T010751.200.json
+
+###
+
+PUT http://localhost:3000/donations/1000001/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+GET http://localhost:3000/donations/1000001
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T124831.200.html
+
+###
+
+PUT http://localhost:3000/donations/1000001/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T124739.500.html
+
+###
+
+GET http://localhost:3000/donations/1000001/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T124607.404.html
+
+###
+
+GET http://localhost:3000/donations/1000001
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T124559.200.html
+
+###
+
+GET http://localhost:3000/donations/100001
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+GET http://localhost:3000/donations/100001
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+GET http://localhost:3000/donations/1000001
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+PUT http://localhost:3000/donations/1000001/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T124456.404.html
+
+###
+
+PUT http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T124048.404.html
+
+###
+
+PUT http://localhost:3000/donations/1000000
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T124043.404.html
+
+###
+
+PUT http://localhost:3000/donations/1000000/vote
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T124037.404.html
+
+###
+
+GET http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123959.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123812.200.json
+
+###
+
+POST http://localhost:3000/donations/add
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123742.404.html
+
+###
+
+POST http://localhost:3000/donations/add
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123733.404.html
+
+###
+
+GET http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123306.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123229.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123228.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123205.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123021.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T123019.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T122311.200.json
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T122149.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T122148.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T122137.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T122057.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T122000.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121959.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121958-1.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121958.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121953.404.html
+
+###
+
+POST http://localhost:3000/donations
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121937.404.html
+
+###
+
+POST http://localhost:3000/resources
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121906.404.html
+
+###
+
+POST http://localhost:3000/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121855.404.html
+
+###
+
+POST http://localhost:3000/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121853.404.html
+
+###
+
+POST http://localhost:3000/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+<> 2019-10-01T121749.404.html
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+POST http://localhost:8080/resources
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+
+POST http://localhost:8080/resources
+Accept: application/json
+Cache-Control: no-cache
+
+{"id":0,"paymenttype":"Direct","amount":500,"upvotes":0}
+
+###
+

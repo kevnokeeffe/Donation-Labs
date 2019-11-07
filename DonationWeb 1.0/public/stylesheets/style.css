@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+p.main{
+  color:red;
+  font-family: courier;
+  font-size: 180%;
+}
+p.second{
+  colour:black;
+  font-family: courier;
+  font-size: 120%;
+  font-weight: bold;
+}
+p.giffy{
+  font-size: 150%;
+}
