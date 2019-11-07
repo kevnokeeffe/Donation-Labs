@@ -5,11 +5,32 @@
 </template>
 
 <script>
+    import DonationService from '@/services/DonationService'
     export default {
         name: 'Donations',
         data () {
             return {
-                messagetitle: ' Donations List '
+                messagetitle: ' Donations List ',
+                donations: [],
+                errors: []
+            }
+        },
+        // Fetches Donations when the component is created.
+        created () {
+            this.loadDonations()
+        },
+        methods: {
+            loadDonations: function () {
+                DonationService.fetchDonations()
+                    .then(response => {
+                        // JSON responses are automatically parsed.
+                        this.donations = response.data
+                        console.log(this.donations)
+                    })
+                    .catch(error => {
+                        this.errors.push(error)
+                        console.log(error)
+                    })
             }
         }
     }
