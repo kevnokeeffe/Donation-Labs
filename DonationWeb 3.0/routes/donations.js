@@ -3,7 +3,7 @@ let express = require('express');
 let router = express.Router();
 let mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost:27017/donationsdb',{ useNewUrlParser: true });
+mongoose.connect('mongodb://localhost:27017/donationsDB',{ useNewUrlParser: true });
 
 let db = mongoose.connection;
 

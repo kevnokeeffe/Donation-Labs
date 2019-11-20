@@ -7,7 +7,7 @@
         <td>
           <p class="lead"><b><i>Time for a change !!</i></b>
           <p>Out with Boring Prumt - Giving has never been so easy.</p>
-          <p>Just click <a href ="/donate">here</a> to go to</p>
+          <p>Just click <a href ="/donate#/donate">here</a> to go to</p>
           <p>the Donation page and empty your wallet</p>
         </td>
         <td>
