@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64c5e7dd-9bd2-4b2b-98fd-81b49a3fa49a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DonationVue 2.1/src/services/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DonationVue 2.1/src/services/donationservice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.0/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.0/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.0/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.0/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.0/src/components/Donate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.0/src/components/Donate.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.0/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.0/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.0/src/services/donationservice.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.0/src/services/donationservice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.1/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.1/src/components/Donate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.1/src/components/Donate.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.1/src/components/Donations.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.1/src/components/Donations.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DonationVue 2.1/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../DonationVue 2.1/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/donations.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/donations.js" afterDir="false" />
-    </list>
+    <list default="true" id="64c5e7dd-9bd2-4b2b-98fd-81b49a3fa49a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DonationVue 2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DonationVue 3.0" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -696,7 +681,7 @@
       <workItem from="1573604637955" duration="23000" />
       <workItem from="1573778385650" duration="583000" />
       <workItem from="1574264182775" duration="10000" />
-      <workItem from="1574269190751" duration="5655000" />
+      <workItem from="1574269190751" duration="5664000" />
     </task>
     <servers />
   </component>
